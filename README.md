@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full Stack Engineer for Back-End and Automation Test with many framework to impove my skill
 - 💞️ I’m looking to collaborate on Banking/Finance Business field
 - 📫 How to reach me by LinkedIn Profile "Thanitta T."
+- - 📫 Reach me on Medium Profile "@ThanittaT"
 
 <!---
 ThanittaT/ThanittaT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
