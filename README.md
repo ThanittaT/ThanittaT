@@ -3,7 +3,7 @@
 - 👀 I’m interested in SQL (both SQL or non-SQL), Network, UNIX command for Linux, Robot Framework with Python, Nodejs, Back-End coding or Back-End system design
 - 🌱 I’m currently learning Full Stack Engineer for Back-End and Automation Test with many framework to impove my skill
 - 💞️ I’m looking to collaborate on Banking/Finance Business field
-- 📫 How to reach me by LinkedIn Profile "Thanitta T."
+- 📫 Reaching me by LinkedIn Profile "Thanitta T."
 
 
 <!---
