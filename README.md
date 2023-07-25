@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThanittaT
 - 📫 Reach me on Medium Profile "@ThanittaT"
 - 👀 I’m interested in SQL (both SQL or non-SQL), Network, UNIX command for Linux, Robot Framework with Python, Nodejs, Back-End coding or Back-End system design
-- 🌱 I’m currently learning Full Stack Engineer for Back-End and Automation Test with many framework to impove my skill
-- 💞️ I’m looking to collaborate on Banking/Finance Business field
+- 🌱 I'am currently learning Golang and automate testing UI-RobotFramework_Selenium
+- 💞️ I’m looking to collaborate on Banking/Finance Business field and explor the new thing in Startup
 - 📫 Reaching me by LinkedIn Profile "Thanitta T."
 
 
